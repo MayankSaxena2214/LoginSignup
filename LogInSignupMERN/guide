@@ -1,0 +1,15 @@
+1.npm install vite
+2.cd client
+3.npm install
+4.Install other required packages
+    =>npm install bootstrap axios react-router-dom
+5.Now run
+  npm run  dev
+6. Now for the node js app
+  cd server
+  npm init -y
+  npm install express
+  npm install cors
+  npm install nodemon
+  npm install mongoose
+  npm run dev
